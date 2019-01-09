@@ -1,0 +1,11 @@
+
+
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.orpheusdroid.screenrecorder">
+
+    <application android:name=".ScreenCamApp">
+        <activity
+            android:name="com.orpheusdroid.screenrecorder.DonateActivity"
+            android:label="@string/donate_activity_label" />
+    </application>
+</manifest>
